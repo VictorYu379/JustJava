@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="chocolate">巧克力</string>
+    <string name="email_content">你好，<xliff:g id="name" example="Victor">%s</xliff:g>!\n总共：$<xliff:g id="total_price" example="1">%d</xliff:g>\n非常感谢!!</string>
+    <string name="order">下单</string>
+    <string name="email_subject"><xliff:g id="person_name" example="Victor">%s</xliff:g>的Just Java订单</string>
+    <string name="person_name">姓名</string>
+    <string name="quantity">数量</string>
+    <string name="toppings">拉花</string>
+    <string name="whipped_cream">奶油</string>
+</resources>
